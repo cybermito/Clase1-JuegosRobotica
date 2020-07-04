@@ -292,3 +292,4 @@ let player2 = sprites.create(img`
 . . . . . f f f f f f . . . . . 
 . . . . . f f . . f f . . . . . 
 `, SpriteKind.Player)
+controller.moveSprite(player2)
